@@ -1,2 +1,3 @@
 # color_flipper
-Projeto básico de troca de cores com interatividade javaScript.
+Projeto simples de troca de cores com interatividade javaScript.
+Link para a página: https://rogertbatista.github.io/color_flipper/
